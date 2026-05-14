@@ -1,0 +1,4 @@
+flask
+flask-cors
+paho-mqtt
+mysql-connector-python==8.0.33
